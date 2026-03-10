@@ -1,95 +1,112 @@
 # 👋 Hi, I'm Yahya Hcini
 
-🎓 Computer Science student  
-🔐 Interested in cybersecurity & secure software development  
-🌍 Based in Tunisia | Open to opportunities in Germany (Ausbildung / Duales Studium / Internship)
+🎓 Computer Science student (2nd Semester)  
+🔐 Interested in backend development & web security  
+🌍 Based in Tunisia | Open to Duales Studium / Internship in Germany  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a motivated Computer Science student with a strong interest in **web development**, **system fundamentals**, and **cybersecurity**.
+I am a Computer Science student currently studying:
 
-I enjoy understanding how things work **from the inside**, especially:
-- how systems communicate,
-- how applications handle data,
-- and how security vulnerabilities appear and can be prevented.
+- Algorithms & Data Structures (C)
+- Operating Systems
+- Networking
+- Databases
+- Programming workshops (C & Python)
 
-I learn mainly through **hands-on practice**, documentation, and technical videos, and I continuously work on improving my skills step by step.
+I am particularly interested in how systems work internally:
+- Memory management (stack vs heap)
+- Client–server communication
+- Authentication mechanisms
+- How web vulnerabilities appear and how they can be mitigated
+
+My long-term direction is backend engineering with strong security foundations.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming & Scripting
-- HTML, CSS, JavaScript
-- PHP (basic backend & forms)
-- Python (beginner)
-- SQL / MySQL
+- C (pointers, memory handling, data structures practice)
+- Python (university coursework)
+- JavaScript
+- PHP
+- HTML & CSS (strong)
 
 ### Web & Backend
-- REST APIs (understanding & consumption)
+- REST API consumption
+- Form handling & server-side validation
+- Authentication basics
+- MySQL integration
 - Client–Server architecture
-- Basic authentication & data handling
 - Git & GitHub
 
+### Computer Science Foundations
+- Stack vs Heap memory
+- Big-O time complexity (fundamentals)
+- TCP vs UDP
+- Three-way handshake
+- DNS resolution
+- HTTP vs HTTPS
+
 ### Cybersecurity (Foundations)
-- Networking basics
-- Web security fundamentals
-- Security mindset (input validation, permissions, risks)
-- Learning paths toward ethical hacking & system security
+- XSS, SQL Injection, CSRF concepts
+- Basic manual testing
+- Burp Suite (introductory use)
+- Linux command line usage
+- Security-oriented thinking in web development
 
 ### Tools & Environment
-- Linux (basic usage)
-- Windows (command line)
+- Linux
+- Windows (Command Line)
 - VS Code
-- EasyPHP / Local servers
+- Strapi
+- Local development servers
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Developing
 
+- Deeper networking knowledge (TCP/IP & protocols)
+- Stronger backend architecture
+- Secure coding practices
 - Advanced German (B1 → B2)
-- Cybersecurity fundamentals (networking, systems, threats)
-- Backend logic & secure application design
-- Better code structure and best practices
 
 ---
 
 ## 🌱 Goals
 
-- Build **secure and well-structured applications**
-- Gain **real-world experience** through internships or training programs
-- Start an **Ausbildung or Duales Studium in Germany**
-- Grow into a **cybersecurity-focused software developer**
+- Build technically solid backend systems
+- Gain structured real-world experience in Germany
+- Develop strong foundations before specializing in penetration testing
 
 ---
 
 ## 📂 Projects
 
-You can find my projects and demos here on GitHub.  
-They include:
-- Web forms & backend logic
-- API-based applications
-- Practice projects to understand systems and security
+Projects available on this profile include:
 
-👉 *More projects are added continuously as I learn.*
+- Personal portfolio (HTML, CSS, JS)
+- E-commerce platform (React + Strapi, deployed live)
+- E-commerce catalog (HTML/CSS/JS + Strapi)
+- PHP & MySQL web application with authentication and database integration  
+  (used for testing common web vulnerabilities such as XSS and CSRF)
+
+All projects are deployed and maintained independently.
 
 ---
 
 ## 🌍 Languages
 
 - Arabic (Native)
-- English (Good working proficiency)
-- German (B1 – actively improving)
+- English (B2)
+- German (B1 – improving toward B2)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/YahyaHcini](https://github.com/YahyaHcini)
-- LinkedIn: *(add your LinkedIn link here)*
-
----
-
-⭐ *Always learning, always improving.*
+- GitHub: https://github.com/YahyaHcini
+- LinkedIn: (add once structured)
