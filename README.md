@@ -1,100 +1,90 @@
 # 👋 Hi, I'm Yahya Hcini
 
 🎓 Computer Science student (2nd Semester)  
-🔐 Interested in backend development & web security  
-🌍 Based in Tunisia | Open to Duales Studium / Internship in Germany  
+🔐 Interested in Cybersecurity & Backend Systems  
+🌍 Tunisia | Open to Duales Studium / Internship in Germany  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student currently studying:
+I am a Computer Science student with academic foundations in:
 
 - Algorithms & Data Structures (C)
 - Operating Systems
 - Networking
 - Databases
-- Programming workshops (C & Python)
 
-I am particularly interested in how systems work internally:
-- Memory management (stack vs heap)
-- Client–server communication
-- Authentication mechanisms
-- How web vulnerabilities appear and how they can be mitigated
+I am particularly interested in system internals, secure backend design, and how vulnerabilities appear in web applications.
 
-My long-term direction is backend engineering with strong security foundations.
+My objective is to build strong technical fundamentals while developing practical cybersecurity knowledge.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Scripting
-- C (pointers, memory handling, data structures practice)
-- Python (university coursework)
+### Programming
+- C (pointers, memory management, data structures practice)
+- Python (coursework)
 - JavaScript
 - PHP
 - HTML & CSS (strong)
 
-### Web & Backend
-- REST API consumption
-- Form handling & server-side validation
-- Authentication basics
-- MySQL integration
-- Client–Server architecture
-- Git & GitHub
-
-### Computer Science Foundations
-- Stack vs Heap memory
-- Big-O time complexity (fundamentals)
+### Systems & Networking
+- TCP/IP fundamentals
 - TCP vs UDP
 - Three-way handshake
 - DNS resolution
 - HTTP vs HTTPS
+- Client–Server architecture
 
-### Cybersecurity (Foundations)
+### Operating Systems
+- Linux (command line, file handling, basic system usage)
+- Windows (Command Line)
+
+### Databases
+- MySQL
+- SQL fundamentals
+- Database integration in web applications
+
+### Web & Backend
+- REST API consumption
+- Server-side validation
+- Authentication basics
+- Git & GitHub
+
+### Security Foundations
 - XSS, SQL Injection, CSRF concepts
 - Basic manual testing
-- Burp Suite (introductory use)
-- Linux command line usage
-- Security-oriented thinking in web development
-
-### Tools & Environment
-- Linux
-- Windows (Command Line)
-- VS Code
-- Strapi
-- Local development servers
-
----
-
-## 📚 Currently Developing
-
-- Deeper networking knowledge (TCP/IP & protocols)
-- Stronger backend architecture
-- Secure coding practices
-- Advanced German (B1 → B2)
-
----
-
-## 🌱 Goals
-
-- Build technically solid backend systems
-- Gain structured real-world experience in Germany
-- Develop strong foundations before specializing in penetration testing
+- Burp Suite (introductory usage)
+- Security-oriented development mindset
 
 ---
 
 ## 📂 Projects
 
-Projects available on this profile include:
+- 🌐 **Portfolio Website**  
+  https://yahyasportfolio.netlify.app  
 
-- Personal portfolio (HTML, CSS, JS)
-- E-commerce platform (React + Strapi, deployed live)
-- E-commerce catalog (HTML/CSS/JS + Strapi)
-- PHP & MySQL web application with authentication and database integration  
-  (used for testing common web vulnerabilities such as XSS and CSRF)
+- 🛒 **E-commerce Platform (React + Strapi)**  
+  Product management, order handling, backend CMS integration (live)
+
+- 🛒 **E-commerce Catalog (HTML/CSS/JS + Strapi)**  
+  Frontend-focused implementation with CMS backend
+
+- 🔐 **PHP & MySQL Web Application**  
+  Authentication system, database integration, and testing environment for common web vulnerabilities
 
 All projects are deployed and maintained independently.
+
+---
+
+## 📚 Currently Developing
+
+- Deeper networking knowledge
+- Secure backend architecture
+- Stronger system-level understanding
+- German (B2 – exam scheduled Summer 2026)
 
 ---
 
@@ -102,11 +92,12 @@ All projects are deployed and maintained independently.
 
 - Arabic (Native)
 - English (B2)
-- German (B1 – improving toward B2)
+- German (B2 – exam Summer 2026)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YahyaHcini
-- LinkedIn: (add once structured)
+- 🌐 Portfolio: https://yahyasportfolio.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/yahya-hcini  
+- 💻 GitHub: https://github.com/YahyaHcini
