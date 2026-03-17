@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Yahya Hcini
 
 🎓 Computer Science student (2nd Semester)  
-🔐 Interested in Cybersecurity & Backend Systems  
-🌍 Tunisia | Open to Duales Studium / Internship in Germany  
+🔐 Interested in Cybersecurity & Networking
 
 ---
 
@@ -98,6 +97,6 @@ All projects are deployed and maintained independently.
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://yahyasportfolio.netlify.app  
+- 🌐 Portfolio: https://yahyasportfolio.netlify.app
 - 💼 LinkedIn: https://www.linkedin.com/in/yahya-hcini  
 - 💻 GitHub: https://github.com/YahyaHcini
