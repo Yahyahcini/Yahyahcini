@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yahya Hcini
 
 🎓 Computer Science student (2nd Semester)  
-🔐 Interested in Cybersecurity & Networking
+🔐 Interested in Cybersecurity/Networking & Web developement
 
 ---
 
