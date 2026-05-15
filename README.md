@@ -91,7 +91,7 @@ All projects are deployed and maintained independently.
 
 - Arabic (Native)
 - English (B2)
-- German (B2 – exam Summer 2026)
+- German (B2)
 
 ---
 
