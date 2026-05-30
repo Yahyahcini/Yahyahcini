@@ -118,8 +118,4 @@ I'm available for **freelance projects**, **collaborations**, and **remote work 
 
 ---
 
-<div align="center">
 
-*Crafted with ❤️ and ☕ in Tunisia*
-
-</div>
