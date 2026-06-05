@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-YahyaHcini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaHcini)
 [![Email](https://img.shields.io/badge/Email-hciniyahya89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hciniyahya89@gmail.com)
 
-📍 Sidi Bouzid, Tunisia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance
+📍 Sidi Bouzid, Tunisia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance/work
 
 </div>
 
