@@ -23,7 +23,8 @@ I'm a **full-stack developer** from Tunisia who treats security not as a checkbo
 - ⚙️ Specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🔐 Actively studying **web application security** — OWASP Top 10, PortSwigger Labs, penetration testing
 - 🌐 CS student with strong practical foundations in networking, OS, and databases
-- 🇩🇪 Learning German 
+- 🇩🇪 Learning German
+- self-taught
 
 > *"Code that protects as well as it performs."*
 
