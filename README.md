@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hey, I'm Yahya Hcini
@@ -19,9 +20,9 @@
 
 I'm a **full-stack developer** from Tunisia who treats security not as a checkbox — but as a design philosophy. I build **secure, scalable web applications** that go beyond just functioning: they protect, perform, and impress.
 
-- 🔥 **3+ years** learning and building — shipped **7+ projects** to production
+- 🔥 **3+ years** learning and building — shipped **8+ projects** to production
 - ⚙️ Specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🔐 Actively studying **web application security** — OWASP Top 10, PortSwigger Labs, penetration testing
+- 🔐 Actively studying **web application security** — OWASP Top 10, PortSwigger Labs, Hacker101 CTF, penetration testing
 - 🌐 CS student with strong practical foundations in networking, OS, and databases
 - 🇩🇪 Learning German
 - self-taught
@@ -57,9 +58,10 @@ I'm a **full-stack developer** from Tunisia who treats security not as a checkbo
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger_Labs-orange?style=flat-square)
+![Hacker101](https://img.shields.io/badge/Hacker101_CTF-red?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-`SQL Injection` `XSS Exploitation` `CSRF` `IDOR` `Penetration Testing` `Secure Auth Design`
+`SQL Injection` `XSS Exploitation` `CSRF` `IDOR` `SSRF` `XXE` `Penetration Testing` `Secure Auth Design`
 
 ### 🚀 DevOps & Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -83,6 +85,7 @@ I'm a **full-stack developer** from Tunisia who treats security not as a checkbo
 | **Premium E-Commerce** | Production-ready store with advanced product management and secure design | React · Strapi CMS | [Live](https://ecommerce-project-yahya.netlify.app) |
 | **Fripe E-commerce** | Full clothing store with secure authentication and CMS management | HTML · CSS · JS · Strapi CMS | [Live](https://yahyahcini.github.io/fripe-tn-frontend/) · [Code](https://github.com/yahyahcini/fripe-tn-frontend) |
 | **Secure Task Manager** | Task management app with secure auth, role-based access, and DB optimization | PHP · MySQL · CSS3 | [Demo](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F9E1075E8F271D449%21sdae834aeb9264346aa626e11df96dbf2) · [Code](https://github.com/Yahyahcini/todo-Manager) |
+| **Hacker101 CTF Writeups** | Documented walkthroughs for 17+ Hacker101 CTF labs — SQLi, IDOR, XSS, SSRF, file upload RCE, XXE, GraphQL, mobile reversing | Burp Suite · Python · Markdown | [GitHub](https://github.com/Yahyahcini/hacker101-ctf-writeups) |
 | **Security Testing Toolkit** | Custom scripts and automation tools for web application vulnerability assessment | Python · Bash | [GitHub](https://github.com/Yahyahcini/yahya_pentester_path) |
 | **PortSwigger Labs** | Write-ups and exploit scripts for web security labs — SQL injection, XSS, and more | Python · Burp Suite | [GitHub](https://github.com/Yahyahcini/Portswigger-Labs/) |
 
@@ -90,7 +93,7 @@ I'm a **full-stack developer** from Tunisia who treats security not as a checkbo
 
 ## 📚 Currently Developing
 
-- 🔐 Advanced penetration testing techniques (completing PortSwigger Web Security Academy)
+- 🔐 Advanced penetration testing techniques (completing PortSwigger Web Security Academy + Hacker101 CTF)
 - 🏗️ Deeper MERN architecture patterns and scalable system design
 - 🛡️ OWASP best practices and secure application hardening
 - 🇩🇪 German language — B2 
@@ -118,5 +121,3 @@ I'm available for **freelance projects**, **collaborations**, and **remote work 
 - 💬 **WhatsApp:** [+216 94 619 928](https://wa.me/21694619928)
 
 ---
-
-
