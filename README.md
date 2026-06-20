@@ -106,7 +106,7 @@ I'm a **full-stack developer** from Tunisia who treats security not as a checkbo
 |---|---|
 | Arabic | Native |
 | English | B2 |
-| German | B2 (in progress) |
+| German | B2  |
 
 ---
 
