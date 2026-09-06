@@ -54,7 +54,7 @@ My approach is centered on **understanding application behavior and security bou
 
 A personal knowledge base covering vulnerability patterns, research methodology, and lessons learned from publicly disclosed security reports.
 
-`Research` `Methodology` `Case Studies`
+`Research` `reports` `Case Studies`
 
 **[View Repository →](https://github.com/Yahyahcini/BugBountyPlaybook)**
 
@@ -155,6 +155,16 @@ That experience is now part of my security methodology. Understanding frontend b
 
 **Development background:** React · Node.js · Express · MongoDB · REST APIs · JavaScript
 
+Before shifting focus to security, I designed and shipped production applications as a freelance full-stack developer. A few examples:
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **LISATERRA** | Luxury accessories e-commerce — product management, admin dashboard, bilingual, JWT auth | React · Node.js · Express · MongoDB Atlas | [Live](https://yahyasportfolio.netlify.app/) |
+| **ISIMM Archive** | Academic document management platform — bilingual, search, Strapi CMS | React · Strapi · Tailwind CSS · REST API | [Live](https://yahyasportfolio.netlify.app/) |
+| **Premium E-Commerce** | Production-ready store with advanced product management | React · Strapi CMS | [Live](https://yahyasportfolio.netlify.app/) |
+| **Fripe E-commerce** | Clothing store with authentication and CMS-based management | HTML · CSS · JS · Strapi CMS | [Live](https://yahyasportfolio.netlify.app/) |
+| **Secure Task Manager** | Task management app with role-based access and DB optimization | PHP · MySQL · CSS3 | [Demo](https://yahyasportfolio.netlify.app/) |
+
 ---
 
 <div align="center">
@@ -163,6 +173,5 @@ That experience is now part of my security methodology. Understanding frontend b
 
 <br><br>
 
-**Build. Break. Understand.**
 
 </div>
