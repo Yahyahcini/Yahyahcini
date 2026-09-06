@@ -16,13 +16,13 @@
 
 ## `01` — ABOUT
 
-I'm a **web security researcher** hunting bugs at HackerOne under **`na3na3`** — and I don't wait for a scanner to tell me something's wrong.
+I'm a **web security researcher focused on bug bounty hunting and web application security**.
 
-My roots are in **full-stack development (MERN)**. That means I've *built* the auth flows, the APIs, the access-control logic that other researchers only see from the outside. I know exactly where developers get lazy — because I've been that developer under a deadline. Now I use that against the target.
+My background in **full-stack development** gives me a practical understanding of how modern web applications and APIs are designed and implemented. I apply that foundation when researching weaknesses in authentication, authorization, access control, application logic, and API behavior.
 
-I run **authorized security research** through bug bounty programs, security labs, and independent recon — and I document every single finding like it's going in front of a judge.
+I conduct **authorized security research** through bug bounty programs, security labs, and independent research. I also build security tooling and maintain structured research notes to improve my methodology.
 
-> *You don't find real vulnerabilities by scanning. You find them by understanding the system better than the people who built it.*
+> *Understand how the application works. Then understand where its security assumptions break.*
 
 ---
 
@@ -32,15 +32,15 @@ I run **authorized security research** through bug bounty programs, security lab
 UNDERSTAND  ➜  MAP  ➜  TEST  ➜  VALIDATE  ➜  DOCUMENT
 ```
 
-| Phase | What I actually do |
+| Phase | Approach |
 |---|---|
-| **Understand** | Reverse-engineer the intended logic before touching a payload |
-| **Map** | Full attack surface recon — subdomains, JS bundles, hidden endpoints, leaked routes |
-| **Test** | Attack the trust boundaries: auth, authZ, business logic — not just OWASP checklists |
-| **Validate** | Weaponize the bug, prove real impact, kill false positives |
-| **Document** | CVSS-scored, reproducible, zero-fluff writeups |
+| **Understand** | Establish how the application is intended to behave |
+| **Map** | Identify relevant assets, endpoints, functionality, and trust boundaries |
+| **Test** | Examine authentication, authorization, access control, and application logic |
+| **Validate** | Reproduce the behavior and establish its actual security impact |
+| **Document** | Record clear, reproducible findings and research notes |
 
-No noise. No spray-and-pray. **Impact or it doesn't get reported.**
+My approach is centered on **understanding application behavior and security boundaries**, rather than relying solely on automated scanning.
 
 ---
 
@@ -51,9 +51,10 @@ No noise. No spray-and-pray. **Impact or it doesn't get reported.**
 <td width="50%" valign="top">
 
 **BugBountyPlaybook**
-War-tested knowledge base of vulnerability patterns, methodology, and case studies from disclosed bounty reports.
 
-`Research` `reports` `Case Studies`
+A personal knowledge base covering vulnerability patterns, research methodology, and lessons learned from publicly disclosed security reports.
+
+`Research` `Methodology` `Case Studies`
 
 **[View Repository →](https://github.com/Yahyahcini/BugBountyPlaybook)**
 
@@ -61,7 +62,8 @@ War-tested knowledge base of vulnerability patterns, methodology, and case studi
 <td width="50%" valign="top">
 
 **Hacker101 CTF Writeups**
-All 17 labs, fully cleared. SQLi, XSS, IDOR, SSRF, XXE, GraphQL, CSRF, OAuth, padding oracle attacks.
+
+Documented solutions and attack paths from Hacker101 CTF challenges, with a focus on understanding how vulnerabilities can be discovered and exploited.
 
 `Labs` `Exploitation` `Writeups`
 
@@ -69,11 +71,13 @@ All 17 labs, fully cleared. SQLi, XSS, IDOR, SSRF, XXE, GraphQL, CSRF, OAuth, pa
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 **Y-Scope**
-A recon framework built to rip through attack surfaces fast — for authorized testing and bug bounty work.
+
+A reconnaissance framework built to support asset discovery and attack-surface mapping during authorized security testing.
 
 `Recon` `Asset Discovery` `Attack Surface`
 
@@ -83,7 +87,8 @@ A recon framework built to rip through attack surfaces fast — for authorized t
 <td width="50%" valign="top">
 
 **PortSwigger Labs**
-32+ labs down. SQLi, XSS, IDOR, SSRF, CSRF, GraphQL, OAuth, JWT, business logic flaws.
+
+A collection of completed PortSwigger Web Security Academy labs used to practice web application security concepts and exploitation techniques.
 
 `Web Security` `Testing` `Research`
 
@@ -111,6 +116,7 @@ A recon framework built to rip through attack surfaces fast — for authorized t
 ![](https://img.shields.io/badge/-Recon-0A0A0A?style=flat-square&color=EF4444)
 
 </td>
+
 <td valign="top" width="33%">
 
 **Engineering**
@@ -123,6 +129,7 @@ A recon framework built to rip through attack surfaces fast — for authorized t
 ![](https://img.shields.io/badge/-GraphQL-0A0A0A?style=flat-square&logo=graphql&logoColor=E10098)
 
 </td>
+
 <td valign="top" width="33%">
 
 **Tooling**
@@ -142,19 +149,20 @@ A recon framework built to rip through attack surfaces fast — for authorized t
 
 ## `05` — ENGINEERING BACKGROUND
 
-Before I hunted bugs, I built the things that get hunted. As a **freelance full-stack developer**, I shipped real web apps and APIs — front to back.
+Before focusing on security, I worked as a **freelance full-stack developer**, building web applications and APIs.
 
-That's not a side note. It's the edge. I don't just fuzz an endpoint and hope — I know what the code *probably* looks like behind it, what the developer was rushing to ship, and where the auth check probably got skipped.
+That experience is now part of my security methodology. Understanding frontend behavior, backend architecture, API design, authentication flows, databases, and application logic helps me analyze vulnerabilities in the context of how applications are actually built.
+
+**Development background:** React · Node.js · Express · MongoDB · REST APIs · JavaScript
 
 ---
 
 <div align="center">
 
-🇹🇳 TUNISIA · 🌍 OPEN TO REMOTE OPPORTUNITIES WORLDWIDE
+🇹🇳 **TUNISIA** · 🌍 **OPEN TO REMOTE OPPORTUNITIES WORLDWIDE**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=EF4444)](https://yahyasportfolio.netlify.app/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=EF4444)](https://www.linkedin.com/in/yahya-hcini)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/YahyaHcini)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:hciniyahya89@gmail.com)
+<br><br>
+
+**Build. Break. Understand.**
 
 </div>
