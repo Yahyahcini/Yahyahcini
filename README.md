@@ -159,11 +159,11 @@ Before shifting focus to security, I designed and shipped production application
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **LISATERRA** | Luxury accessories e-commerce — product management, admin dashboard, bilingual, JWT auth | React · Node.js · Express · MongoDB Atlas | [Live](https://yahyasportfolio.netlify.app/) |
-| **ISIMM Archive** | Academic document management platform — bilingual, search, Strapi CMS | React · Strapi · Tailwind CSS · REST API | [Live](https://yahyasportfolio.netlify.app/) |
-| **Premium E-Commerce** | Production-ready store with advanced product management | React · Strapi CMS | [Live](https://yahyasportfolio.netlify.app/) |
-| **Fripe E-commerce** | Clothing store with authentication and CMS-based management | HTML · CSS · JS · Strapi CMS | [Live](https://yahyasportfolio.netlify.app/) |
-| **Secure Task Manager** | Task management app with role-based access and DB optimization | PHP · MySQL · CSS3 | [Demo](https://yahyasportfolio.netlify.app/) |
+| **LISATERRA** | Luxury accessories e-commerce — product management, admin dashboard, bilingual, JWT auth | React · Node.js · Express · MongoDB Atlas | [Live](https://lisaterra.vercel.app/) |
+| **ISIMM Archive** | Academic document management platform — bilingual, search, Strapi CMS | React · Strapi · Tailwind CSS · REST API | [Live](https://isimm-archive.netlify.app/) |
+| **Premium E-Commerce** | Production-ready store with advanced product management | React · Strapi CMS | [Live](https://ecommerce-project-yahya.netlify.app/) |
+| **Fripe E-commerce** | Clothing store with authentication and CMS-based management | HTML · CSS · JS · Strapi CMS | [Live](https://yahyahcini.github.io/fripe-tn-frontend/) |
+| **Secure Task Manager** | Task management app with role-based access and DB optimization | PHP · MySQL · CSS3 | [Demo](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F9E1075E8F271D449%21sdae834aeb9264346aa626e11df96dbf2) |
 
 ---
 
