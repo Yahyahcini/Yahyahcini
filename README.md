@@ -168,6 +168,7 @@ Before shifting focus to security, I designed and shipped production application
 ---
 
 <div align="center">
+<br><br>
 
 🇹🇳 **TUNISIA** · 🌍 **OPEN TO REMOTE OPPORTUNITIES WORLDWIDE**
 
