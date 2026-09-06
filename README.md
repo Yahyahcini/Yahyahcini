@@ -1,123 +1,160 @@
-
 <div align="center">
 
-# 👋 Hey, I'm Yahya Hcini
+<img src="title.svg" alt="Yahya Hcini — Web Security Researcher · Bug Bounty Hunter" width="100%" />
 
-### Full-Stack Developer · MERN Specialist · Security-First Mindset
+<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yahyasportfolio.netlify.app-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://yahyasportfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Hcini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-hcini)
-[![GitHub](https://img.shields.io/badge/GitHub-YahyaHcini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaHcini)
-[![Email](https://img.shields.io/badge/Email-hciniyahya89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hciniyahya89@gmail.com)
-
-📍 Sidi Bouzid, Tunisia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance/work
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/YahyaHcini)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=EF4444)](https://www.linkedin.com/in/yahya-hcini)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=EF4444)](https://yahyasportfolio.netlify.app/)&nbsp;&nbsp;
+[![HackerOne](https://img.shields.io/badge/HackerOne-0A0A0A?style=for-the-badge&logo=hackerone&logoColor=EF4444)](https://hackerone.com/na3na3)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:hciniyahya89@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` — ABOUT
 
-I'm a **full-stack developer** from Tunisia who treats security not as a checkbox — but as a design philosophy. I build **secure, scalable web applications** that go beyond just functioning: they protect, perform, and impress.
+I'm a **web security researcher** hunting bugs at HackerOne under **`na3na3`** — and I don't wait for a scanner to tell me something's wrong.
 
-- 🔥 **3+ years** learning and building — shipped **8+ projects** to production
-- ⚙️ Specializing in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🔐 Actively studying **web application security** — OWASP Top 10, PortSwigger Labs, Hacker101 CTF, penetration testing
-- 🌐 CS student with strong practical foundations in networking, OS, and databases
-- 🇩🇪 Learning German
-- self-taught
+My roots are in **full-stack development (MERN)**. That means I've *built* the auth flows, the APIs, the access-control logic that other researchers only see from the outside. I know exactly where developers get lazy — because I've been that developer under a deadline. Now I use that against the target.
 
-> *"Code that protects as well as it performs."*
+I run **authorized security research** through bug bounty programs, security labs, and independent recon — and I document every single finding like it's going in front of a judge.
+
+> *You don't find real vulnerabilities by scanning. You find them by understanding the system better than the people who built it.*
 
 ---
 
-## 🛠️ Technical Skills
+## `02` — METHODOLOGY
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+```
+UNDERSTAND  ➜  MAP  ➜  TEST  ➜  VALIDATE  ➜  DOCUMENT
+```
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi_CMS-4945FF?style=flat-square&logo=strapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose_ODM-880000?style=flat-square&logo=mongoose&logoColor=white)
-
-### 🔐 Security & Pentesting
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger_Labs-orange?style=flat-square)
-![Hacker101](https://img.shields.io/badge/Hacker101_CTF-red?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-`SQL Injection` `XSS Exploitation` `CSRF` `IDOR` `SSRF` `XXE` `Penetration Testing` `Secure Auth Design`
-
-### 🚀 DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-### 💬 Programming Languages
-`JavaScript` `Python` `PHP` `C`
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **LISATERRA** | Luxury accessories e-commerce — full product management, admin dashboard, bilingual, JWT auth | React · Node.js · Express · MongoDB Atlas | [Live](https://lisaterra.vercel.app) |
-| **ISIMM Archive** | Academic document management platform for ISIMM — bilingual, search, Strapi CMS | React · Strapi · Tailwind CSS · REST API | [Live](https://isimm-archive.netlify.app) |
-| **Premium E-Commerce** | Production-ready store with advanced product management and secure design | React · Strapi CMS | [Live](https://ecommerce-project-yahya.netlify.app) |
-| **Fripe E-commerce** | Full clothing store with secure authentication and CMS management | HTML · CSS · JS · Strapi CMS | [Live](https://yahyahcini.github.io/fripe-tn-frontend/) · [Code](https://github.com/yahyahcini/fripe-tn-frontend) |
-| **Secure Task Manager** | Task management app with secure auth, role-based access, and DB optimization | PHP · MySQL · CSS3 | [Demo](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F9E1075E8F271D449%21sdae834aeb9264346aa626e11df96dbf2) · [Code](https://github.com/Yahyahcini/todo-Manager) |
-| **Hacker101 CTF Writeups** | Documented walkthroughs for 17+ Hacker101 CTF labs — SQLi, IDOR, XSS, SSRF, file upload RCE, XXE, GraphQL, mobile reversing | Burp Suite · Python · Markdown | [GitHub](https://github.com/Yahyahcini/hacker101-ctf-writeups) |
-| **Security Testing Toolkit** | Custom scripts and automation tools for web application vulnerability assessment | Python · Bash | [GitHub](https://github.com/Yahyahcini/yahya_pentester_path) |
-| **PortSwigger Labs** | Write-ups and exploit scripts for web security labs — SQL injection, XSS, and more | Python · Burp Suite | [GitHub](https://github.com/Yahyahcini/Portswigger-Labs/) |
-
----
-
-## 📚 Currently Developing
-
-- 🔐 Advanced penetration testing techniques (completing PortSwigger Web Security Academy + Hacker101 CTF)
-- 🏗️ Deeper MERN architecture patterns and scalable system design
-- 🛡️ OWASP best practices and secure application hardening
-- 🇩🇪 German language — B2 
-
----
-
-## 🌍 Languages
-
-| Language | Level |
+| Phase | What I actually do |
 |---|---|
-| Arabic | Native |
-| English | B2 |
-| German | B2  |
+| **Understand** | Reverse-engineer the intended logic before touching a payload |
+| **Map** | Full attack surface recon — subdomains, JS bundles, hidden endpoints, leaked routes |
+| **Test** | Attack the trust boundaries: auth, authZ, business logic — not just OWASP checklists |
+| **Validate** | Weaponize the bug, prove real impact, kill false positives |
+| **Document** | CVSS-scored, reproducible, zero-fluff writeups |
+
+No noise. No spray-and-pray. **Impact or it doesn't get reported.**
 
 ---
 
-## 📫 Get In Touch
+## `03` — SECURITY RESEARCH
 
-I'm available for **freelance projects**, **collaborations**, and **remote work worldwide**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌐 **Portfolio:** [yahyasportfolio.netlify.app](https://yahyasportfolio.netlify.app)
-- 💼 **LinkedIn:** [linkedin.com/in/yahya-hcini](https://www.linkedin.com/in/yahya-hcini)
-- 💻 **GitHub:** [github.com/YahyaHcini](https://github.com/YahyaHcini)
-- 📧 **Email:** hciniyahya89@gmail.com
-- 💬 **WhatsApp:** [+216 94 619 928](https://wa.me/21694619928)
+**BugBountyPlaybook**
+War-tested knowledge base of vulnerability patterns, methodology, and case studies from disclosed bounty reports.
+
+`Research` `reports` `Case Studies`
+
+**[View Repository →](https://github.com/Yahyahcini/BugBountyPlaybook)**
+
+</td>
+<td width="50%" valign="top">
+
+**Hacker101 CTF Writeups**
+All 17 labs, fully cleared. SQLi, XSS, IDOR, SSRF, XXE, GraphQL, CSRF, OAuth, padding oracle attacks.
+
+`Labs` `Exploitation` `Writeups`
+
+**[View Repository →](https://github.com/Yahyahcini/hacker101-ctf-writeups)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Y-Scope**
+A recon framework built to rip through attack surfaces fast — for authorized testing and bug bounty work.
+
+`Recon` `Asset Discovery` `Attack Surface`
+
+**[View Repository →](https://github.com/Yahyahcini/yscope-framework)**
+
+</td>
+<td width="50%" valign="top">
+
+**PortSwigger Labs**
+32+ labs down. SQLi, XSS, IDOR, SSRF, CSRF, GraphQL, OAuth, JWT, business logic flaws.
+
+`Web Security` `Testing` `Research`
+
+**[View Repository →](https://github.com/Yahyahcini/Portswigger-Labs)**
+
+</td>
+</tr>
+</table>
 
 ---
+
+## `04` — TECHNICAL FOUNDATION
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Security**
+
+![](https://img.shields.io/badge/-Web%20App%20Security-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-API%20Security-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-AuthN%2FAuthZ-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-Access%20Control-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-Business%20Logic-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-Recon-0A0A0A?style=flat-square&color=EF4444)
+
+</td>
+<td valign="top" width="33%">
+
+**Engineering**
+
+![](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=FFD43B)
+![](https://img.shields.io/badge/-React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![](https://img.shields.io/badge/-MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=47A248)
+![](https://img.shields.io/badge/-GraphQL-0A0A0A?style=flat-square&logo=graphql&logoColor=E10098)
+
+</td>
+<td valign="top" width="33%">
+
+**Tooling**
+
+![](https://img.shields.io/badge/-Burp%20Suite-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-ffuf-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-httpx-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-subfinder-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-Amass-0A0A0A?style=flat-square&color=EF4444)
+![](https://img.shields.io/badge/-Jadx-0A0A0A?style=flat-square&color=EF4444)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — ENGINEERING BACKGROUND
+
+Before I hunted bugs, I built the things that get hunted. As a **freelance full-stack developer**, I shipped real web apps and APIs — front to back.
+
+That's not a side note. It's the edge. I don't just fuzz an endpoint and hope — I know what the code *probably* looks like behind it, what the developer was rushing to ship, and where the auth check probably got skipped.
+
+---
+
+<div align="center">
+
+🇹🇳 TUNISIA · 🌍 OPEN TO REMOTE OPPORTUNITIES WORLDWIDE
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=EF4444)](https://yahyasportfolio.netlify.app/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=EF4444)](https://www.linkedin.com/in/yahya-hcini)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/YahyaHcini)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:hciniyahya89@gmail.com)
+
+</div>
