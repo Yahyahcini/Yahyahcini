@@ -155,7 +155,7 @@ That experience is now part of my security methodology. Understanding frontend b
 
 **Development background:** React · Node.js · Express · MongoDB · REST APIs · JavaScript
 
-Before shifting focus to security, I designed and shipped production applications as a freelance full-stack developer. A few examples:
+A few examples of the projects i made:
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
